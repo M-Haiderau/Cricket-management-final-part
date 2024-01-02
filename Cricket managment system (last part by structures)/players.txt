@@ -1,0 +1,4 @@
+1         haider       pakistan        batsman
+2         aleena       pakistan         bowler
+3         misbah       pakistan         bowler
+5          fahad       pakistan        batsman
